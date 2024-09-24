@@ -1,0 +1,599 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "judge_me_reviews_preview_badge_hnQNfW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "icon_with_text_MKXHMR": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "return",
+            "heading_1": "60-Day Returns",
+            "icon_2": "silhouette",
+            "heading_2": "24\/7 Customer Support",
+            "icon_3": "truck",
+            "heading_3": "Free shipping"
+          }
+        },
+        "collapsible_tab_4Rm9nh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "60-Day Money Back Guarantee",
+            "icon": "return",
+            "content": "<p>At Toy-Alien, we stand confidently behind the quality of our products. If, for any reason, you find yourself unsatisfied with your purchase within the first 60 days, contact us at contact@toy-alien.com, and we'll make it right. Please abide by our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Return Policy.<\/a> Your satisfaction is our commitment – guaranteed.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "judge_me_reviews_preview_badge_hnQNfW",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "icon_with_text_MKXHMR",
+        "collapsible_tab_4Rm9nh"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "featured_collection_NECjiR": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Related Product",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "related-products",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_RfEXfy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Frrfwp": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PorductPageGiantGooseFirst2_d012745d-3f67-4582-ad3f-ea60433743bb.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FM6PWm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_a893aaac-d684-4a2a-b627-99ed46ccb015.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Frrfwp",
+        "column_FM6PWm"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_3xDxDN": {
+      "type": "multirow",
+      "blocks": {
+        "row_QkR4k9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1.gif",
+            "caption": "",
+            "heading": "Perfect for Travel ✈️",
+            "text": "<p>Designed to fit in your bag or pocket, this compact art kit is the perfect creative companion for any trip. Whether you're on a plane, at a café, or exploring nature, unleash your artistic potential wherever inspiration strikes.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/portable-travel-watercolor-set-schmincke-watercolor-8-colors-mini-walnut-paint-box-sketchbook-student-outing-art-supplies"
+          }
+        },
+        "row_xWD4LC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_9_dcdc62ed-2163-4386-8e79-8c50c9febfa0.jpg",
+            "caption": "",
+            "heading": "All-in-One Creativity Set 🎨",
+            "text": "<p>With 8 vibrant watercolors, a refillable brush, and a durable sketchbook, this kit has everything you need to create stunning art on the go—no bulky supplies required.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/portable-travel-watercolor-set-schmincke-watercolor-8-colors-mini-walnut-paint-box-sketchbook-student-outing-art-supplies"
+          }
+        },
+        "row_A6jFM8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_7_2b042ef0-bafc-462c-8fbf-014a9788f242.jpg",
+            "caption": "",
+            "heading": "Eco-Friendly Design 🌱",
+            "text": "<p>Made from sustainable materials, including eco-conscious wood for the color palette, our kit combines creativity with responsibility, allowing you to paint beautifully while caring for the planet.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/portable-travel-watercolor-set-schmincke-watercolor-8-colors-mini-walnut-paint-box-sketchbook-student-outing-art-supplies"
+          }
+        }
+      },
+      "block_order": [
+        "row_QkR4k9",
+        "row_xWD4LC",
+        "row_A6jFM8"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9CNjGK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MVygNf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_10.jpg",
+            "title": "Jessica H.",
+            "text": "<p>I bought this for my boyfriend because he likes the video game untitled goose game and I thought it would be cute. Turns out I loved this so much that I found myself hugging it and holding it while wrapping gifts. As a sufferer of anxiety and depression, I found absolute joy in holding this stuffed goose. It has a nice weight to it that is perfect for hugging. I ended up giving this gift to my partner a week early and we both have been loving it, and so have my cats.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TxiNBf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_11.jpg",
+            "title": "Michaela T.",
+            "text": "<p>Super fluffy and soft after putting it in the dryer on low for 20 minutes. Even before putting it in the dryer it was soft and fluffy, but now even more plus I gave it a little massaging before putting into the dryer to separate the clumps of stuffing. It’s so cute. Just buy it, you will be happy with your purchase. If you are giving it as a gift, please unpack and fluff it in the dryer first, then wrap it up to give. Right out of the box it is vacuum sealed and looks a little sad, so unpacking it first will make for a much better gift :)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GPjHEm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_12.jpg",
+            "title": "Max C.",
+            "text": "<p>Bought the Cuddle Goose as a gift for my girlfriend, and she absolutely loves it! It's super soft and cuddly, perfect for snuggling. The quality is fantastic, and it's even cuter in person. My girlfriend loves it. She can't stop hugging it<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MVygNf",
+        "column_TxiNBf",
+        "column_GPjHEm"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Customer Reviews",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_VFQ3ij": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pJEPE4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_399e8e3d-970b-4c66-a4c9-a5a53db51fd7.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pJEPE4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_TNMDPr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YV9DNH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_18_2655c93a-b1dd-4eca-a1d2-f76fdf813319.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YV9DNH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9cxPm7": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_WjrhGz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DtKMBC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I initiate a return if I am not satisfied with my purchase?",
+            "icon": "check_mark",
+            "row_content": "<p><em>Simply contact our customer service team via our website or the customer service hotline. We will guide you through the process and provide all the necessary details to make your return as smooth as possible.<br\/><br\/><\/em><em><strong>contact@baby-alien.com<\/strong><\/em><\/p><p><a href=\"\/pages\/contact\" title=\"Contact Us\"><em><strong>CONTACT<\/strong><\/em><\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9efRDM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any costs associated with returning the product?",
+            "icon": "check_mark",
+            "row_content": "<p><em>No, we cover all return shipping costs. Returning is completely free, ensuring that you can shop with confidence and without any additional expenses.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6ebqMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are the colors in the palette replaceable?",
+            "icon": "check_mark",
+            "row_content": "<p>The 8 colors in the palette are fixed, but they are designed to last for multiple uses. However, you can easily add more watercolor pans of your choice to extend your color range.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jF34A3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the kit eco-friendly?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes! The kit is crafted from sustainable materials, including a wooden color palette and an eco-friendly sketchbook, allowing you to create art while staying conscious of your environmental impact.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d96aKQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to receive my order?",
+            "icon": "check_mark",
+            "row_content": "<p>Standard shipping typically takes 5-8 business days with a processing time of 2-5 days. You'll receive a tracking number once your order has been shipped so you can monitor its progress. <a href=\"https:\/\/baby-alien.com\/apps\/track123\" title=\"https:\/\/baby-alien.com\/apps\/track123\">Track Your Order<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9Rwg9N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "check_mark",
+            "row_content": "<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this number on our website's \"<a href=\"https:\/\/baby-alien.com\/apps\/track123\" title=\"https:\/\/baby-alien.com\/apps\/track123\">Track My Order<\/a>\" page to see real-time updates on the status and location of your package.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DtKMBC",
+        "collapsible_row_9efRDM",
+        "collapsible_row_6ebqMq",
+        "collapsible_row_jF34A3",
+        "collapsible_row_d96aKQ",
+        "collapsible_row_9Rwg9N"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_kdRgwe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Y4MGmW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custoemr_Serrvice.png",
+            "title": "",
+            "text": "",
+            "link_label": "Our Customer Service",
+            "link": "shopify:\/\/pages\/returns-and-refunds"
+          }
+        }
+      },
+      "block_order": [
+        "column_Y4MGmW"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_bRPyTt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6hynwq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Discover Great Deals and Explore Our Full Range of Products<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NexdBD": {
+          "type": "text",
+          "settings": {
+            "text": "Dive into our curated selection of bargains to find incredible deals on your favorite items.",
+            "text_style": "body"
+          }
+        },
+        "buttons_jLJdGz": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "SHOP HERE",
+            "button_link_2": "shopify:\/\/collections",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6hynwq",
+        "text_NexdBD",
+        "buttons_jLJdGz"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dfsdfef.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "17136335054e76c1d7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_B3HVeA": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_B3HVeA"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "contact_form_dihBwP": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_qDWVt7": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_collection_NECjiR",
+    "multicolumn_RfEXfy",
+    "multirow_3xDxDN",
+    "multicolumn_9CNjGK",
+    "multicolumn_VFQ3ij",
+    "multicolumn_TNMDPr",
+    "multicolumn_9cxPm7",
+    "collapsible_content_WjrhGz",
+    "multicolumn_kdRgwe",
+    "image_banner_bRPyTt",
+    "17136335054e76c1d7",
+    "contact_form_dihBwP",
+    "slideshow_qDWVt7"
+  ]
+}

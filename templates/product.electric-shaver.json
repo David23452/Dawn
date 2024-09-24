@@ -1,0 +1,532 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "judge_me_reviews_preview_badge_hnQNfW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "icon_with_text_MKXHMR": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "return",
+            "heading_1": "90-Day Returns",
+            "icon_2": "silhouette",
+            "heading_2": "24\/7 Customer Support",
+            "icon_3": "truck",
+            "heading_3": "Free shipping"
+          }
+        },
+        "collapsible_tab_PPjELj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Instructions",
+            "icon": "clipboard",
+            "content": "<p><strong>1)<\/strong> <strong>Start<\/strong> by selecting either the <strong>straight or curved blade<\/strong>, depending on your preference or the area you're targeting.<\/p><p><strong>2)<\/strong> Glide the chosen blade gently over the skin to <strong>remove longer hairs efficiently<\/strong>.<\/p><p><strong>3)<\/strong> For a flawless finish, switch to the <strong>skin guard blade<\/strong> and go over the area again to catch any stubble and ensure a smooth, <strong>nick-free shave<\/strong>.<\/p><p><strong>4)<\/strong> Enjoy the convenience of using <strong>SilkGlide Pro™<\/strong> in the shower or on dry skin, with or without creams or soap, for a personalized and comfortable shaving experience.<\/p><p><strong>5)<\/strong> Revel in the <strong>silky-smooth results<\/strong> and flaunt your radiant skin confidently.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_4Rm9nh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "90-Day Money Back Guarantee",
+            "icon": "return",
+            "content": "<p>At Baby-Alien, we stand confidently behind the quality of our ElegancePro Glide. If, for any reason, you find yourself unsatisfied with your purchase within the first 90 days, contact us at contact@baby-alien.com, and we'll make it right. Please abide by our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Return Policy.<\/a> Your satisfaction is our commitment – guaranteed.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "judge_me_reviews_preview_badge_hnQNfW",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "icon_with_text_MKXHMR",
+        "collapsible_tab_PPjELj",
+        "collapsible_tab_4Rm9nh"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "featured_collection_NECjiR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Related Product",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "related-products",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_3xDxDN": {
+      "type": "multirow",
+      "blocks": {
+        "row_QkR4k9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_32.webp",
+            "caption": "",
+            "heading": "<strong>Instant Shaving Anywhere, Anytime<\/strong>",
+            "text": "<p>your shaver is ready whenever you need it—ensuring you're always at your best.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/elegancepro-glide-womens-electric-hair-shaver-rechargeable-ultra-smooth-painless-hair-remova"
+          }
+        },
+        "row_xWD4LC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel.gif",
+            "caption": "",
+            "heading": "<strong>Fully Waterproof, Shower-Friendly Design<\/strong>",
+            "text": "<p>Safe for use in the shower, this shaver allows you to streamline your morning routine.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/electric-water-gun"
+          }
+        },
+        "row_A6jFM8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/l-intro-1639676642.webp",
+            "caption": "",
+            "heading": "<strong>Goodbye to disposable razors<\/strong>",
+            "text": "<p>Unlike disposables, which can cause irritation and are often made of harsh materials, our shaver uses hypoallergenic blades that are gentle on your skin, reducing the risk of cuts and rashes.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/electric-water-gun"
+          }
+        }
+      },
+      "block_order": [
+        "row_QkR4k9",
+        "row_xWD4LC",
+        "row_A6jFM8"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9CNjGK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MVygNf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412365379_291248423874993_4762708682221018365_n.jpg",
+            "title": "Jessica H.",
+            "text": "<p>Got this for travel and it’s a lifesaver. Charges fast with, super easy to clean. No nicks or irritation, even on sensitive spots. Definitely recommend for anyone on the go.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TxiNBf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/15037296_102794016870522_4243120906423878324_n.jpg",
+            "title": "Michaela T.",
+            "text": "<p>I’ve been using this electric shaver for a few months now, and it’s been fantastic. It’s lightweight and easy to handle, which is perfect for my morning routine. The battery life is impressive—I only need to charge it once a week despite daily use. I particularly love that it works well on both wet and dry skin, making it versatile for quick touch-ups in the shower. It’s also really easy to clean, just rinse under water, and you’re done. Highly recommend for anyone looking for a reliable, travel-friendly shaver.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GPjHEm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/436410364_10223705695341856_3670590407022614382_n.jpg",
+            "title": "Samantha C.",
+            "text": "<p>I love this shaver. I have been looking for one that you can use wet or dry. This one really gets the job done and cuts close. I plan to order another one to use while traveling. Very easy to use and simple to clean.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MVygNf",
+        "column_TxiNBf",
+        "column_GPjHEm"
+      ],
+      "settings": {
+        "title": "<strong>What Our Customers Are Saying<\/strong>",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_MqyDaJ": {
+      "type": "video",
+      "settings": {
+        "heading": "<strong>Demonstration<\/strong>",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/12561.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9cxPm7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UPbgDJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UPbgDJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_p4LgyC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MWF7iG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_1_55391e3c-c375-4c04-82ef-c3df5451e488.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MWF7iG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_KpUinM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RhjhXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/List_Comparison_Table_Infographic_Instagram_Post_665e22ef-5cc0-4133-87f8-914c937a02b4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RhjhXF"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_WjrhGz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DtKMBC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I initiate a return if I am not satisfied with my purchase?",
+            "icon": "check_mark",
+            "row_content": "<p><em>Simply contact our customer service team via our website or the customer service hotline. We will guide you through the process and provide all the necessary details to make your return as smooth as possible.<br\/><br\/><\/em><em><strong>contact@baby-alien.com<\/strong><\/em><\/p><p><a href=\"\/pages\/contact\" title=\"Contact Us\"><em><strong>CONTACT<\/strong><\/em><\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9efRDM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any costs associated with returning the product?",
+            "icon": "check_mark",
+            "row_content": "<p><em>No, we cover all return shipping costs. Returning your ElegancePro Glide is completely free, ensuring that you can shop with confidence and without any additional expenses.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6ebqMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the estimated shipping times for the ElegancePro Glide?",
+            "icon": "check_mark",
+            "row_content": "<p><em>We strive to process all orders within 1-3 business days. Once processed, the estimated shipping time is 3-7 days. Please note that in rare occasions, shipping may take longer due to factors beyond our control. We appreciate your understanding and patience.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jF34A3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can the ElegancePro Glide be used on all body parts?",
+            "icon": "check_mark",
+            "row_content": "<p><em>Absolutely! The ElegancePro Glide is designed for versatility and safety, making it suitable for use on all body parts, including sensitive areas. Its hypoallergenic blades and protective features ensure a smooth, irritation-free shave wherever you need it.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d96aKQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the ElegancePro Glide suitable for daily use?",
+            "icon": "check_mark",
+            "row_content": "<p><em>Yes, the ElegancePro Glide is perfect for daily use. Its gentle, skin-friendly design minimizes irritation, making it ideal for maintaining smooth skin every day. Plus, its durable construction and easy maintenance ensure it performs consistently well with frequent use.<\/em><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DtKMBC",
+        "collapsible_row_9efRDM",
+        "collapsible_row_6ebqMq",
+        "collapsible_row_jF34A3",
+        "collapsible_row_d96aKQ"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_bRPyTt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6hynwq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Discover Great Deals and Explore Our Full Range of Products<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NexdBD": {
+          "type": "text",
+          "settings": {
+            "text": "Dive into our curated selection of bargains to find incredible deals on your favorite items.",
+            "text_style": "body"
+          }
+        },
+        "buttons_jLJdGz": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "SHOP HERE",
+            "button_link_2": "shopify:\/\/collections",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6hynwq",
+        "text_NexdBD",
+        "buttons_jLJdGz"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dfsdfef.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "17136335054e76c1d7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_B3HVeA": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_B3HVeA"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "contact_form_dihBwP": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_collection_NECjiR",
+    "multirow_3xDxDN",
+    "multicolumn_9CNjGK",
+    "video_MqyDaJ",
+    "multicolumn_9cxPm7",
+    "multicolumn_p4LgyC",
+    "multicolumn_KpUinM",
+    "collapsible_content_WjrhGz",
+    "image_banner_bRPyTt",
+    "17136335054e76c1d7",
+    "contact_form_dihBwP"
+  ]
+}

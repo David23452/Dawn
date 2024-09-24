@@ -1,0 +1,476 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "judge_me_reviews_preview_badge_hnQNfW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "icon_with_text_MKXHMR": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "return",
+            "heading_1": "Free returns",
+            "icon_2": "silhouette",
+            "heading_2": "24\/7 Customer Support",
+            "icon_3": "truck",
+            "heading_3": "Free shipping"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "judge_me_reviews_preview_badge_hnQNfW",
+        "icon_with_text_MKXHMR"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_3xDxDN": {
+      "type": "multirow",
+      "blocks": {
+        "row_QkR4k9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_14.jpg",
+            "caption": "",
+            "heading": "<strong>Experience the Splash!<\/strong>",
+            "text": "<p> Designed for thrill-seekers of all ages, this electric water gun boasts a revolutionary rapid-fire system<br\/><br\/><strong>Ready, aim, soak!<\/strong> Get yours today and transform every water fight into an epic showdown.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/electric-water-gun"
+          }
+        },
+        "row_xWD4LC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/678u678.png",
+            "caption": "",
+            "heading": "<strong>4 Light Modes!<\/strong>",
+            "text": "<p>The AquaBlitz Electric Water Gun features four intuitive light modes: a refueling guide, dynamic shooting effects, a water capacity indicator, and a charging status, ensuring you're always battle-ready and fully operational.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/electric-water-gun"
+          }
+        },
+        "row_A6jFM8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Effective_reach_of_up_to_12_meters.png",
+            "caption": "",
+            "heading": "<strong>Gear Up for Endless Water Fun!<\/strong>",
+            "text": "<p>The AquaBlitz Electric Water Gun boasts a precision range of 12 meters, allowing you to drench your targets from a distance with pinpoint accuracy, keeping you in control and dominant in every water battle.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/electric-water-gun"
+          }
+        }
+      },
+      "block_order": [
+        "row_QkR4k9",
+        "row_xWD4LC",
+        "row_A6jFM8"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_rdEp86": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_F9pLjz": {
+          "type": "heading",
+          "settings": {
+            "heading": "What sets us apart?",
+            "heading_size": "h1"
+          }
+        },
+        "text_Gf6eTV": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_F9pLjz",
+        "text_Gf6eTV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/List_Comparison_Table_Infographic_Instagram_Post_20b4f1da-396b-4dd1-9feb-46222ec022d0.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9CNjGK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MVygNf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/296464232_607371531009557_8884066238742259916_n.jpg",
+            "title": "Jessica H.",
+            "text": "<p>Bought this for my nephew's 8th birthday and it was a hit! The light modes are really cool, especially at dusk. It's easy to fill and shoots really far. My nephew and his friends had a blast, and even the adults wanted a turn! Definitely recommend for endless backyard fun.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TxiNBf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/39934491_10217453165779908_7978659861292384256_n.jpg",
+            "title": "Michael T.",
+            "text": "<p>Got the AquaBlitz for my kids and they love the range it covers. The lights are a neat feature, though the battery doesn't last as long as I'd hoped. We have to recharge it pretty often. Overall, it’s a solid choice for water fights, but keep a charger handy!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GPjHEm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/53472685_153921385607179_7123507228136439808_n.jpg",
+            "title": "Samantha C.",
+            "text": "<p>I'm quite pleased with the AquaBlitz water gun. It shoots far, and the lights are a delightful addition, making it easier for the kids to see how much water is left. The charging indicator is useful, too. It's a bit pricier than other water guns we've had, but the quality justifies the cost. Great for family gatherings!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MVygNf",
+        "column_TxiNBf",
+        "column_GPjHEm"
+      ],
+      "settings": {
+        "title": "<strong>What Our Customers Are Saying<\/strong>",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_MqyDaJ": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_WjrhGz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DtKMBC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to receive my AquaBlitz Electric Water Gun after ordering?",
+            "icon": "check_mark",
+            "row_content": "<p>Once you place your order, please allow 1-2 days for order preparation, followed by 4-10 days for shipping. Total delivery time will be approximately 5-12 days depending on your location.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9efRDM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "check_mark",
+            "row_content": "<p>We stand behind the quality of our AquaBlitz Electric Water Gun! If you are not satisfied with your purchase, you can return the product within 30 days of receipt for a full refund. Please ensure that the item is in its original condition and packaging.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6ebqMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can the AquaBlitz Electric Water Gun be used by children?",
+            "icon": "check_mark",
+            "row_content": "<p>Absolutely! The AquaBlitz Electric Water Gun is designed to be lightweight and easy to handle, making it perfect for warriors of all ages. We recommend supervision for younger children to ensure safe and fun play.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jF34A3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the AquaBlitz Electric Water Gun waterproof?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, the AquaBlitz is built with high-quality, waterproof materials that are designed to withstand rigorous use in all sorts of aquatic environments, from your backyard to the beach.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_d96aKQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I contact customer support if I have a problem or question?",
+            "icon": "check_mark",
+            "row_content": "<p>Our customer support team is ready to assist you with any questions or concerns you may have. You can reach us via:<\/p><ul><li><strong>Email:<\/strong> [<a>contact@baby-alien.com<\/a>]<\/li><li><strong>Phone:<\/strong> 017673225728 (available from 9 AM to 5 PM local time, Monday through Friday)<\/li><li><strong>Live Chat:<\/strong> Available during business hours on our website<\/li><li><strong>Contact Form:<\/strong> Fill out the form on our \"<a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact Us\">Contact Us<\/a>\" page, and we will respond as soon as possible.<\/li><\/ul><p>We are dedicated to providing excellent customer service and ensuring that all your questions are answered promptly and thoroughly.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DtKMBC",
+        "collapsible_row_9efRDM",
+        "collapsible_row_6ebqMq",
+        "collapsible_row_jF34A3",
+        "collapsible_row_d96aKQ"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9cxPm7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UPbgDJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_13.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UPbgDJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_bRPyTt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6hynwq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Discover Great Deals and Explore Our Full Range of Products<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NexdBD": {
+          "type": "text",
+          "settings": {
+            "text": "Dive into our curated selection of bargains to find incredible deals on your favorite items.",
+            "text_style": "body"
+          }
+        },
+        "buttons_jLJdGz": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "SHOP HERE",
+            "button_link_2": "shopify:\/\/collections",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6hynwq",
+        "text_NexdBD",
+        "buttons_jLJdGz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dfsdfef.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "17136335054e76c1d7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_B3HVeA": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_B3HVeA"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "contact_form_dihBwP": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "multirow_3xDxDN",
+    "image_with_text_rdEp86",
+    "multicolumn_9CNjGK",
+    "video_MqyDaJ",
+    "collapsible_content_WjrhGz",
+    "multicolumn_9cxPm7",
+    "image_banner_bRPyTt",
+    "17136335054e76c1d7",
+    "contact_form_dihBwP"
+  ]
+}
